@@ -1,6 +1,6 @@
 # 📄 PageRanker in Python
 
-This project implements a **PageRank algorithm**, a foundational technique in search engine technology, to rank webpages based on their importance within a network. Inspired by the original algorithm used by Google, this Python project processes a corpus of HTML files, extracts their internal links, and computes PageRank scores using two core probability-based methods.
+This project implements a **PageRank algorithm**, a common technique in search engine technology, to rank webpages based on their importance within a network. Inspired by the original algorithm used by Google, this Python project processes a corpus of HTML files, extracts their internal links, and computes PageRank scores using two core probability-based methods.
 
 ---
 
