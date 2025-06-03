@@ -67,7 +67,7 @@ Sampled PageRank Results:
 
 ## 🚀 Learning Outcomes
 
-- Built a practical application of PageRank from scratch.
+- Practical application of probability theory.
 - Deepened understanding of stochastic modeling and convergence in probabilistic systems.
 - Gained experience implementing and comparing Monte Carlo and iterative algorithms.
 
