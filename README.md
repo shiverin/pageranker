@@ -45,7 +45,17 @@ Both methods reflect foundational principles in **probability theory**, includin
 ---
 
 ## 📈 Example Output
+Iterative PageRank Results:
+2.html: 0.4289
+1.html: 0.2202
+3.html: 0.2202
+4.html: 0.1307
 
+Sampled PageRank Results:
+2.html: 0.4294
+1.html: 0.2232
+3.html: 0.2196
+4.html: 0.1278
 
 ## 🛠️ Tech Stack
 

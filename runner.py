@@ -1,7 +1,8 @@
 from parse import crawl_corpus
 from pagerank import iterate_pagerank, sample_pagerank
 
-folder_path = "/workspaces/200508238/cs50ai/week2/pagerank/corpus1"
+folder_path = "C:/Users/yuzhe/Videos/vsc/pageranker/corpus0"
+
 
 corpus = crawl_corpus(folder_path)
 
